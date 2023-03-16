@@ -1,6 +1,6 @@
 # YelpCamp
 
-![YelpCamp](https://user-images.githubusercontent.com/55718487/90950840-18670c80-e473-11ea-82e1-a241d27be9af.png)
+![Yelpcamp](https://user-images.githubusercontent.com/55718487/225575343-6a6f7982-c336-4452-a638-f5e58a9916c7.jpeg)
 
 ![HOME](https://user-images.githubusercontent.com/55718487/225570167-5cc232f8-b95c-43e4-be8c-72c4957dcc4c.jpeg)
 
